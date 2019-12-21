@@ -1,0 +1,18 @@
+c:\users\manara\documents\visual studio 2013\Projects\graphics\graphics\bin\Debug\graphics.exe.config
+c:\users\manara\documents\visual studio 2013\Projects\graphics\graphics\obj\Debug\graphics.csprojResolveAssemblyReference.cache
+c:\users\manara\documents\visual studio 2013\Projects\graphics\graphics\obj\Debug\graphics.Form1.resources
+c:\users\manara\documents\visual studio 2013\Projects\graphics\graphics\obj\Debug\graphics.Properties.Resources.resources
+c:\users\manara\documents\visual studio 2013\Projects\graphics\graphics\obj\Debug\graphics.csproj.GenerateResource.Cache
+c:\users\manara\documents\visual studio 2013\Projects\graphics\graphics\bin\Debug\graphics.exe
+c:\users\manara\documents\visual studio 2013\Projects\graphics\graphics\bin\Debug\graphics.pdb
+c:\users\manara\documents\visual studio 2013\Projects\graphics\graphics\obj\Debug\graphics.exe
+c:\users\manara\documents\visual studio 2013\Projects\graphics\graphics\obj\Debug\graphics.pdb
+C:\Users\Manara\Desktop\Third Year\graphics\graphics\bin\Debug\graphics.exe.config
+C:\Users\Manara\Desktop\Third Year\graphics\graphics\bin\Debug\graphics.exe
+C:\Users\Manara\Desktop\Third Year\graphics\graphics\bin\Debug\graphics.pdb
+C:\Users\Manara\Desktop\Third Year\graphics\graphics\obj\Debug\graphics.Properties.Resources.resources
+C:\Users\Manara\Desktop\Third Year\graphics\graphics\obj\Debug\graphics.csproj.GenerateResource.Cache
+C:\Users\Manara\Desktop\Third Year\graphics\graphics\obj\Debug\graphics.exe
+C:\Users\Manara\Desktop\Third Year\graphics\graphics\obj\Debug\graphics.pdb
+C:\Users\Manara\Desktop\Third Year\graphics\graphics\obj\Debug\graphics.csprojResolveAssemblyReference.cache
+C:\Users\Manara\Desktop\Third Year\graphics\graphics\obj\Debug\graphics.Form1.resources
